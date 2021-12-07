@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RutvikSurani
 - 👀 I’m interested in learning and exporing new things
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning react js ,react native.
 - 💞️ I’m looking to collaborate on  open source projects.
 - 📫 Reach me at rutviksurani999@gmail.com
 
